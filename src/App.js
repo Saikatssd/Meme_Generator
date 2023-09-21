@@ -7,7 +7,7 @@ import './components/style.css'
 function App() {
 
   return (
-    <div classNameName="App">
+    <div className="App">
       <Header />
       <Meme />
     </div>
